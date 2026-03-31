@@ -1,0 +1,10 @@
+Machine learning is a branch of artificial intelligence.
+It allows systems to learn from data without explicit programming.
+Supervised learning uses labeled data for training.
+Unsupervised learning finds hidden patterns in data.
+Reinforcement learning learns through rewards and punishments.
+Machine learning is widely used in healthcare and finance.
+Deep learning is a subset of machine learning.
+Algorithms improve automatically through experience.
+Data plays a crucial role in machine learning models.
+Artificial intelligence and machine learning are transforming industries.
